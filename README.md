@@ -14,3 +14,6 @@
 
 ## Git Branch
 `git branch` is used to see list of available branch on local repository
+
+## Git Remote
+`git remote set-url origin git@github.com:OWNER/REPOSITORY.git`
