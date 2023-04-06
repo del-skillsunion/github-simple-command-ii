@@ -16,7 +16,4 @@
 `git branch` is used to see list of available branch on local repository
 
 ## Git Remote
-
-To change the remote to SSH
-
 `git remote set-url origin git@github.com:OWNER/REPOSITORY.git`
